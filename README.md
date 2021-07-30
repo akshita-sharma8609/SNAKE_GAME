@@ -16,6 +16,18 @@ Also you need to setup pygame and mixer modules of python.
 3. Press Enter to play.
 4. Start playing with the arrow keys.
 
+
+![2021-07-29 (5)](https://user-images.githubusercontent.com/70146188/127601250-c9883c77-664e-4eed-8cf8-513282b5ffef.png)
+
+
+![2021-07-29 (6)](https://user-images.githubusercontent.com/70146188/127601444-5f0b3140-fd25-4124-a0e0-de6df944edae.png)
+
+
+![2021-07-29 (8)](https://user-images.githubusercontent.com/70146188/127601489-a9785915-7203-4908-be66-2bb376c44f0c.png)
+
+
+![2021-07-29 (8)](https://user-images.githubusercontent.com/70146188/127601511-ac858075-4012-4a55-88af-f7dc4b9965f6.png)
+
 # Built With
 
 - [Python3](https://www.python.org/downloads/) - The language used
