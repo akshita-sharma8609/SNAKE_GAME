@@ -26,7 +26,7 @@ Also you need to setup pygame and mixer modules of python.
 ![2021-07-29 (8)](https://user-images.githubusercontent.com/70146188/127601489-a9785915-7203-4908-be66-2bb376c44f0c.png)
 
 
-![2021-07-29 (8)](https://user-images.githubusercontent.com/70146188/127601511-ac858075-4012-4a55-88af-f7dc4b9965f6.png)
+![2021-07-29 (7)](https://user-images.githubusercontent.com/70146188/127601667-3a90b839-2f4b-42e0-aadf-f7af58593441.png)
 
 # Built With
 
